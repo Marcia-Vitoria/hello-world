@@ -1,2 +1,2 @@
 # hello-world
-Aula de gerência e configuração de mudanças
+Exemplo feito na aula de gerência e configuração de mudanças - 09/11/2026
